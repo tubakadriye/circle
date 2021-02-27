@@ -5,8 +5,6 @@
  ============================================================================
  Name        : circle.c
  Author      : Tuba
- Version     :
- Copyright   : Your copyright notice
  Description : A circle drawing program from entered 3 points in C
  ============================================================================
 
